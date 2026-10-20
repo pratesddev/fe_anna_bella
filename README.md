@@ -24,8 +24,12 @@ Como desafio futuro, será realizada a reescrita do portal utilizando layout mod
 
 ```text
 fe_anna_bella/
-├── imagens/
+├── img/
 ├── index.html
+├── biografia.htm
+├── campanhas.html
+├── contato.html
+├── estilo.css
 ├── README.md
 └── ...
 ```
